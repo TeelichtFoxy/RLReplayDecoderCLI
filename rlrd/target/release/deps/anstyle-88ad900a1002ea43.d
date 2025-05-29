@@ -1,0 +1,12 @@
+E:\GIT\RLReplayDecoderCLI\rlrd\target\release\deps\libanstyle-88ad900a1002ea43.rmeta: C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+E:\GIT\RLReplayDecoderCLI\rlrd\target\release\deps\libanstyle-88ad900a1002ea43.rlib: C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+E:\GIT\RLReplayDecoderCLI\rlrd\target\release\deps\anstyle-88ad900a1002ea43.d: C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs
+
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\lib.rs:
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\macros.rs:
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\color.rs:
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\effect.rs:
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\reset.rs:
+C:\Users\eskib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-1.0.10\src\style.rs:
