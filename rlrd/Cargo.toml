@@ -1,8 +1,8 @@
 [package]
 name = "rlrd"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Teelicht Foxy <elias@skibb.de>"]
-edition = "2024"
+edition = "2021"
 description = "A tool for windows to decode all the data from a rocket league .replay file."
 
 [dependencies]
@@ -11,3 +11,4 @@ boxcars = "0.10.3"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 anyhow = "1.0"
+dirs = "5.0"
