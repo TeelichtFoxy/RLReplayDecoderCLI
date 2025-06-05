@@ -76,6 +76,6 @@ Feel free to open issues or pull requests if you have ideas for improvements, fi
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/teelichtfoxy/rlreplaydecodercli/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/teelichtfoxy/rlreplaydecodercli/blob/main/LICENSE) file for details.
 
 -----
