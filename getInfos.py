@@ -26,3 +26,5 @@ class Replay():
         print(Replay.getDate(path))
         print("Team 0: " + str(Replay.getTeamScore(path, 0)))
         print("Team 1: " + str(Replay.getTeamScore(path, 1)))
+
+Replay.getAll(str(input("Name of the JSON output file: ")))
